@@ -1,9 +1,7 @@
 ## Hi there 👋
-## 🐍 Contribution Snake
+
 ![snake](https://github.com/PhanTinh04/PhanTinh04/blob/output/github-contribution-grid-snake.svg)
 
-## 📊 Activity Graph
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=PhanTinh04)
 
 
 <!--
