@@ -1,4 +1,10 @@
 ## Hi there 👋
+## 🐍 Contribution Snake
+![snake](https://github.com/PhanTinh04/PhanTinh04/blob/output/github-contribution-grid-snake.svg)
+
+## 📊 Activity Graph
+![graph](https://github-readme-activity-graph.vercel.app/graph?username=PhanTinh04)
+
 
 <!--
 **PhanTinh04/PhanTinh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
