@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![snake](https://github.com/PhanTinh04/PhanTinh04/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
